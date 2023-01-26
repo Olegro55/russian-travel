@@ -25,4 +25,4 @@
 * [Генератор HTML-дерева](https://yoksel.github.io/html-tree/)
 * ...и другие приложения
 
-** [Ссылка на проект](https://Olegro55.github.io/russian-travel/index.html))**
+Проект доступен по ссылке: [Путешествие по России](https://Olegro55.github.io/russian-travel/index.html)
