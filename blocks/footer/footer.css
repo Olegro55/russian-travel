@@ -1,0 +1,24 @@
+.footer {
+  width: calc(100% - 48 * 2px);
+  max-width: 1184px;
+  margin: 92px auto 28px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media screen and (max-width: 1023px) {
+  .footer {
+    width: 93.75%;
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    grid-template-columns: 1fr;
+    grid-template-rows: 2fr;
+    margin-top: 64px;
+    width: 90%;
+    margin-bottom: 5%;
+  }
+}
